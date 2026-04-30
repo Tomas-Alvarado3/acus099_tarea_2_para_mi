@@ -1,7 +1,7 @@
 # Tarea 2 — Respuesta al impulso
 #### Integrantes: Tomás Alvarado - Miguel Baeza
 Página web del grupo.
-pusimos intro
+intro
 objetivos
 marco teorico
 procedimiento
