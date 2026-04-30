@@ -19,5 +19,8 @@ Los dos recintos en donde se tomaron los registros fueron el Laboratorio A de fi
 
 La convolución es una operación matemática que permite la combinación de una señal de entrada con la respuesta de impulso de una sala, esto para obtener una señal de salida con las características del recinto. Lo cual permite simular cómo se escucharía el sonido sin la necesidad de grabar este mismo en ese lugar, pudiendo así identificar las cualidades acústicas de la sala como lo sería por ejemplo, la reverberación.
 
+# Equipo y procedimiento
 
+El equipo utilizado para los registros fue un microfono Behringer ECM 8000 con su pedestal, una interzar de audio Focusrite Scarlett 2i4, cable XLR (para conectar el micrófono a la interfaz), un pc con Reaper instalado, una huincha de 1,20[m] y una claqueta. Lo primero que se hizo fue grabar los audios en la Camara Anecoica que posteriormente, después de eso se fue a la Camara Reverberante para tomar las respuestas de impulso con la claqueta, finalizando con el laboratorio y el cubículo tambien tomados con la claqueta. La huincha se usó para cumplir con la normativa ISO 3382 en las distintos registros de respuesta de impulso.
+ 
 
